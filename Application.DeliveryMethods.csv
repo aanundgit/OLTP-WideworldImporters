@@ -1,0 +1,11 @@
+,DeliveryMethodID,DeliveryMethodName,LastEditedBy,ValidFrom,ValidTo
+0,1,Post,1,2013-01-01 00:00:00,
+1,2,Courier,1,2013-01-01 00:00:00,
+2,3,Delivery Van,1,2013-01-01 00:00:00,
+3,4,Customer Collect,1,2013-01-01 00:00:00,
+4,5,Chilled Van,16,2015-01-01 16:00:00,
+5,6,Customer Courier to Collect,1,2013-01-01 00:00:00,
+6,7,Road Freight,1,2013-01-01 00:00:00,
+7,8,Air Freight,1,2013-01-01 00:00:00,
+8,9,Refrigerated Road Freight,1,2013-01-01 00:00:00,
+9,10,Refrigerated Air Freight,1,2013-01-01 00:00:00,

@@ -1,0 +1,9 @@
+,CustomerCategoryID,CustomerCategoryName,LastEditedBy,ValidFrom,ValidTo
+0,1,Agent,1,2013-01-01 00:00:00,
+1,2,Wholesaler,1,2013-01-01 00:00:00,
+2,3,Novelty Shop,1,2013-01-01 00:00:00,
+3,4,Supermarket,1,2013-01-01 00:00:00,
+4,5,Computer Store,1,2013-01-01 00:00:00,
+5,6,Gift Store,1,2013-01-01 00:00:00,
+6,7,Corporate,1,2013-01-01 00:00:00,
+7,8,General Retailer,9,2014-01-01 16:15:00,

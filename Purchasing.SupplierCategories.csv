@@ -1,0 +1,10 @@
+,SupplierCategoryID,SupplierCategoryName,LastEditedBy,ValidFrom,ValidTo
+0,1,Other Wholesaler,1,2013-01-01 00:00:00,
+1,2,Novelty Goods Supplier,1,2013-01-01 00:00:00,
+2,3,Toy Supplier,1,2013-01-01 00:00:00,
+3,4,Clothing Supplier,1,2013-01-01 00:00:00,
+4,5,Packaging Supplier,1,2013-01-01 00:00:00,
+5,6,Courier Services Supplier,16,2015-01-01 16:00:00,
+6,7,Financial Services Supplier,1,2013-01-01 00:00:00,
+7,8,Marketing Services Supplier,1,2013-01-01 00:00:00,
+8,9,Insurance Services Supplier,1,2013-01-01 00:00:00,
