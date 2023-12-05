@@ -1,0 +1,34 @@
+[
+  {
+    "ColdRoomTemperatureID": 3654737,
+    "ColdRoomSensorNumber": 1,
+    "RecordedWhen": "2016-05-31T23:59:24",
+    "Temperature": 3.72,
+    "ValidFrom": "2016-05-31T23:59:24",
+    "ValidTo": "9999-12-31T23:59:59.9999999"
+  },
+  {
+    "ColdRoomTemperatureID": 3654738,
+    "ColdRoomSensorNumber": 2,
+    "RecordedWhen": "2016-05-31T23:59:24",
+    "Temperature": 4.70,
+    "ValidFrom": "2016-05-31T23:59:24",
+    "ValidTo": "9999-12-31T23:59:59.9999999"
+  },
+  {
+    "ColdRoomTemperatureID": 3654739,
+    "ColdRoomSensorNumber": 3,
+    "RecordedWhen": "2016-05-31T23:59:24",
+    "Temperature": 3.00,
+    "ValidFrom": "2016-05-31T23:59:24",
+    "ValidTo": "9999-12-31T23:59:59.9999999"
+  },
+  {
+    "ColdRoomTemperatureID": 3654740,
+    "ColdRoomSensorNumber": 4,
+    "RecordedWhen": "2016-05-31T23:59:24",
+    "Temperature": 3.58,
+    "ValidFrom": "2016-05-31T23:59:24",
+    "ValidTo": "9999-12-31T23:59:59.9999999"
+  }
+]

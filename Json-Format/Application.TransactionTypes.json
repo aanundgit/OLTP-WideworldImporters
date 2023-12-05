@@ -1,0 +1,93 @@
+[
+  {
+    "TransactionTypeID": 1,
+    "TransactionTypeName": "Customer Invoice",
+    "LastEditedBy": 1,
+    "ValidFrom": "2013-01-01T00:00:00",
+    "ValidTo": "9999-12-31T23:59:59.9999999"
+  },
+  {
+    "TransactionTypeID": 2,
+    "TransactionTypeName": "Customer Credit Note",
+    "LastEditedBy": 1,
+    "ValidFrom": "2013-01-01T00:00:00",
+    "ValidTo": "9999-12-31T23:59:59.9999999"
+  },
+  {
+    "TransactionTypeID": 3,
+    "TransactionTypeName": "Customer Payment Received",
+    "LastEditedBy": 1,
+    "ValidFrom": "2013-01-01T00:00:00",
+    "ValidTo": "9999-12-31T23:59:59.9999999"
+  },
+  {
+    "TransactionTypeID": 4,
+    "TransactionTypeName": "Customer Refund",
+    "LastEditedBy": 1,
+    "ValidFrom": "2013-01-01T00:00:00",
+    "ValidTo": "9999-12-31T23:59:59.9999999"
+  },
+  {
+    "TransactionTypeID": 5,
+    "TransactionTypeName": "Supplier Invoice",
+    "LastEditedBy": 1,
+    "ValidFrom": "2013-01-01T00:00:00",
+    "ValidTo": "9999-12-31T23:59:59.9999999"
+  },
+  {
+    "TransactionTypeID": 6,
+    "TransactionTypeName": "Supplier Credit Note",
+    "LastEditedBy": 1,
+    "ValidFrom": "2013-01-01T00:00:00",
+    "ValidTo": "9999-12-31T23:59:59.9999999"
+  },
+  {
+    "TransactionTypeID": 7,
+    "TransactionTypeName": "Supplier Payment Issued",
+    "LastEditedBy": 1,
+    "ValidFrom": "2013-01-01T00:00:00",
+    "ValidTo": "9999-12-31T23:59:59.9999999"
+  },
+  {
+    "TransactionTypeID": 8,
+    "TransactionTypeName": "Supplier Refund",
+    "LastEditedBy": 1,
+    "ValidFrom": "2013-01-01T00:00:00",
+    "ValidTo": "9999-12-31T23:59:59.9999999"
+  },
+  {
+    "TransactionTypeID": 9,
+    "TransactionTypeName": "Stock Transfer",
+    "LastEditedBy": 1,
+    "ValidFrom": "2013-01-01T00:00:00",
+    "ValidTo": "9999-12-31T23:59:59.9999999"
+  },
+  {
+    "TransactionTypeID": 10,
+    "TransactionTypeName": "Stock Issue",
+    "LastEditedBy": 1,
+    "ValidFrom": "2013-01-01T00:00:00",
+    "ValidTo": "9999-12-31T23:59:59.9999999"
+  },
+  {
+    "TransactionTypeID": 11,
+    "TransactionTypeName": "Stock Receipt",
+    "LastEditedBy": 1,
+    "ValidFrom": "2013-01-01T00:00:00",
+    "ValidTo": "9999-12-31T23:59:59.9999999"
+  },
+  {
+    "TransactionTypeID": 12,
+    "TransactionTypeName": "Stock Adjustment at Stocktake",
+    "LastEditedBy": 1,
+    "ValidFrom": "2013-01-01T00:00:00",
+    "ValidTo": "9999-12-31T23:59:59.9999999"
+  },
+  {
+    "TransactionTypeID": 13,
+    "TransactionTypeName": "Customer Contra",
+    "LastEditedBy": 9,
+    "ValidFrom": "2016-01-01T16:05:00",
+    "ValidTo": "9999-12-31T23:59:59.9999999"
+  }
+]

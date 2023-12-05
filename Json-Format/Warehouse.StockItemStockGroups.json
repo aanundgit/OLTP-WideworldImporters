@@ -1,0 +1,3096 @@
+[
+  {
+    "StockItemStockGroupID": 1,
+    "StockItemID": 1,
+    "StockGroupID": 6,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 2,
+    "StockItemID": 1,
+    "StockGroupID": 1,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 3,
+    "StockItemID": 1,
+    "StockGroupID": 7,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 4,
+    "StockItemID": 2,
+    "StockGroupID": 6,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 5,
+    "StockItemID": 2,
+    "StockGroupID": 1,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 6,
+    "StockItemID": 2,
+    "StockGroupID": 7,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 7,
+    "StockItemID": 3,
+    "StockGroupID": 6,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 8,
+    "StockItemID": 3,
+    "StockGroupID": 1,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 9,
+    "StockItemID": 4,
+    "StockGroupID": 6,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 10,
+    "StockItemID": 4,
+    "StockGroupID": 1,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 11,
+    "StockItemID": 4,
+    "StockGroupID": 7,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 12,
+    "StockItemID": 5,
+    "StockGroupID": 6,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 13,
+    "StockItemID": 5,
+    "StockGroupID": 1,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 14,
+    "StockItemID": 5,
+    "StockGroupID": 7,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 15,
+    "StockItemID": 6,
+    "StockGroupID": 6,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 16,
+    "StockItemID": 6,
+    "StockGroupID": 1,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 17,
+    "StockItemID": 6,
+    "StockGroupID": 7,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 18,
+    "StockItemID": 7,
+    "StockGroupID": 6,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 19,
+    "StockItemID": 7,
+    "StockGroupID": 1,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 20,
+    "StockItemID": 7,
+    "StockGroupID": 7,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 21,
+    "StockItemID": 8,
+    "StockGroupID": 6,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 22,
+    "StockItemID": 8,
+    "StockGroupID": 1,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 23,
+    "StockItemID": 8,
+    "StockGroupID": 7,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 24,
+    "StockItemID": 9,
+    "StockGroupID": 6,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 25,
+    "StockItemID": 9,
+    "StockGroupID": 1,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 26,
+    "StockItemID": 9,
+    "StockGroupID": 7,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 27,
+    "StockItemID": 10,
+    "StockGroupID": 6,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 28,
+    "StockItemID": 10,
+    "StockGroupID": 1,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 29,
+    "StockItemID": 10,
+    "StockGroupID": 7,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 30,
+    "StockItemID": 11,
+    "StockGroupID": 6,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 31,
+    "StockItemID": 11,
+    "StockGroupID": 1,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 32,
+    "StockItemID": 11,
+    "StockGroupID": 7,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 33,
+    "StockItemID": 12,
+    "StockGroupID": 6,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 34,
+    "StockItemID": 12,
+    "StockGroupID": 1,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 35,
+    "StockItemID": 12,
+    "StockGroupID": 7,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 36,
+    "StockItemID": 13,
+    "StockGroupID": 6,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 37,
+    "StockItemID": 13,
+    "StockGroupID": 1,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 38,
+    "StockItemID": 13,
+    "StockGroupID": 7,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 39,
+    "StockItemID": 14,
+    "StockGroupID": 6,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 40,
+    "StockItemID": 14,
+    "StockGroupID": 1,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 41,
+    "StockItemID": 14,
+    "StockGroupID": 7,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 42,
+    "StockItemID": 15,
+    "StockGroupID": 6,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 43,
+    "StockItemID": 15,
+    "StockGroupID": 1,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 44,
+    "StockItemID": 15,
+    "StockGroupID": 7,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 45,
+    "StockItemID": 16,
+    "StockGroupID": 6,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 46,
+    "StockItemID": 16,
+    "StockGroupID": 3,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 47,
+    "StockItemID": 16,
+    "StockGroupID": 1,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 48,
+    "StockItemID": 17,
+    "StockGroupID": 6,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 49,
+    "StockItemID": 17,
+    "StockGroupID": 3,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 50,
+    "StockItemID": 17,
+    "StockGroupID": 1,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 51,
+    "StockItemID": 18,
+    "StockGroupID": 6,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 52,
+    "StockItemID": 18,
+    "StockGroupID": 3,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 53,
+    "StockItemID": 18,
+    "StockGroupID": 1,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 54,
+    "StockItemID": 19,
+    "StockGroupID": 6,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 55,
+    "StockItemID": 19,
+    "StockGroupID": 3,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 56,
+    "StockItemID": 19,
+    "StockGroupID": 1,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 57,
+    "StockItemID": 20,
+    "StockGroupID": 6,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 58,
+    "StockItemID": 20,
+    "StockGroupID": 3,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 59,
+    "StockItemID": 20,
+    "StockGroupID": 1,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 60,
+    "StockItemID": 21,
+    "StockGroupID": 6,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 61,
+    "StockItemID": 21,
+    "StockGroupID": 3,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 62,
+    "StockItemID": 21,
+    "StockGroupID": 1,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 63,
+    "StockItemID": 22,
+    "StockGroupID": 6,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 64,
+    "StockItemID": 22,
+    "StockGroupID": 3,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 65,
+    "StockItemID": 22,
+    "StockGroupID": 1,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 66,
+    "StockItemID": 23,
+    "StockGroupID": 6,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 67,
+    "StockItemID": 23,
+    "StockGroupID": 3,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 68,
+    "StockItemID": 23,
+    "StockGroupID": 1,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 69,
+    "StockItemID": 24,
+    "StockGroupID": 6,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 70,
+    "StockItemID": 24,
+    "StockGroupID": 3,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 71,
+    "StockItemID": 24,
+    "StockGroupID": 1,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 72,
+    "StockItemID": 25,
+    "StockGroupID": 6,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 73,
+    "StockItemID": 25,
+    "StockGroupID": 3,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 74,
+    "StockItemID": 25,
+    "StockGroupID": 1,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 75,
+    "StockItemID": 26,
+    "StockGroupID": 6,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 76,
+    "StockItemID": 26,
+    "StockGroupID": 3,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 77,
+    "StockItemID": 26,
+    "StockGroupID": 1,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 78,
+    "StockItemID": 27,
+    "StockGroupID": 6,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 79,
+    "StockItemID": 27,
+    "StockGroupID": 3,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 80,
+    "StockItemID": 27,
+    "StockGroupID": 1,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 81,
+    "StockItemID": 28,
+    "StockGroupID": 6,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 82,
+    "StockItemID": 28,
+    "StockGroupID": 3,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 83,
+    "StockItemID": 28,
+    "StockGroupID": 1,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 84,
+    "StockItemID": 29,
+    "StockGroupID": 6,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 85,
+    "StockItemID": 29,
+    "StockGroupID": 3,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 86,
+    "StockItemID": 29,
+    "StockGroupID": 1,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 87,
+    "StockItemID": 30,
+    "StockGroupID": 6,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 88,
+    "StockItemID": 30,
+    "StockGroupID": 3,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 89,
+    "StockItemID": 30,
+    "StockGroupID": 1,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 90,
+    "StockItemID": 31,
+    "StockGroupID": 6,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 91,
+    "StockItemID": 31,
+    "StockGroupID": 3,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 92,
+    "StockItemID": 31,
+    "StockGroupID": 1,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 93,
+    "StockItemID": 32,
+    "StockGroupID": 6,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 94,
+    "StockItemID": 32,
+    "StockGroupID": 3,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 95,
+    "StockItemID": 32,
+    "StockGroupID": 1,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 96,
+    "StockItemID": 33,
+    "StockGroupID": 6,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 97,
+    "StockItemID": 33,
+    "StockGroupID": 3,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 98,
+    "StockItemID": 33,
+    "StockGroupID": 1,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 99,
+    "StockItemID": 34,
+    "StockGroupID": 6,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 100,
+    "StockItemID": 34,
+    "StockGroupID": 3,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 101,
+    "StockItemID": 34,
+    "StockGroupID": 1,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 102,
+    "StockItemID": 35,
+    "StockGroupID": 6,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 103,
+    "StockItemID": 35,
+    "StockGroupID": 3,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 104,
+    "StockItemID": 35,
+    "StockGroupID": 1,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 105,
+    "StockItemID": 36,
+    "StockGroupID": 6,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 106,
+    "StockItemID": 36,
+    "StockGroupID": 3,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 107,
+    "StockItemID": 36,
+    "StockGroupID": 1,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 108,
+    "StockItemID": 37,
+    "StockGroupID": 6,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 109,
+    "StockItemID": 37,
+    "StockGroupID": 3,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 110,
+    "StockItemID": 37,
+    "StockGroupID": 1,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 111,
+    "StockItemID": 38,
+    "StockGroupID": 6,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 112,
+    "StockItemID": 38,
+    "StockGroupID": 3,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 113,
+    "StockItemID": 38,
+    "StockGroupID": 1,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 114,
+    "StockItemID": 39,
+    "StockGroupID": 6,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 115,
+    "StockItemID": 39,
+    "StockGroupID": 3,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 116,
+    "StockItemID": 39,
+    "StockGroupID": 1,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 117,
+    "StockItemID": 40,
+    "StockGroupID": 6,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 118,
+    "StockItemID": 40,
+    "StockGroupID": 3,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 119,
+    "StockItemID": 40,
+    "StockGroupID": 1,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 120,
+    "StockItemID": 41,
+    "StockGroupID": 6,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 121,
+    "StockItemID": 41,
+    "StockGroupID": 3,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 122,
+    "StockItemID": 41,
+    "StockGroupID": 1,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 123,
+    "StockItemID": 42,
+    "StockGroupID": 6,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 124,
+    "StockItemID": 42,
+    "StockGroupID": 3,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 125,
+    "StockItemID": 42,
+    "StockGroupID": 1,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 126,
+    "StockItemID": 43,
+    "StockGroupID": 6,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 127,
+    "StockItemID": 43,
+    "StockGroupID": 3,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 128,
+    "StockItemID": 43,
+    "StockGroupID": 1,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 129,
+    "StockItemID": 44,
+    "StockGroupID": 6,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 130,
+    "StockItemID": 44,
+    "StockGroupID": 3,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 131,
+    "StockItemID": 44,
+    "StockGroupID": 1,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 132,
+    "StockItemID": 45,
+    "StockGroupID": 6,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 133,
+    "StockItemID": 45,
+    "StockGroupID": 3,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 134,
+    "StockItemID": 45,
+    "StockGroupID": 1,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 135,
+    "StockItemID": 46,
+    "StockGroupID": 6,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 136,
+    "StockItemID": 46,
+    "StockGroupID": 3,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 137,
+    "StockItemID": 46,
+    "StockGroupID": 1,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 138,
+    "StockItemID": 47,
+    "StockGroupID": 6,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 139,
+    "StockItemID": 47,
+    "StockGroupID": 3,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 140,
+    "StockItemID": 47,
+    "StockGroupID": 1,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 141,
+    "StockItemID": 48,
+    "StockGroupID": 6,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 142,
+    "StockItemID": 48,
+    "StockGroupID": 3,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 143,
+    "StockItemID": 48,
+    "StockGroupID": 1,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 144,
+    "StockItemID": 49,
+    "StockGroupID": 6,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 145,
+    "StockItemID": 49,
+    "StockGroupID": 3,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 146,
+    "StockItemID": 49,
+    "StockGroupID": 1,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 147,
+    "StockItemID": 50,
+    "StockGroupID": 6,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 148,
+    "StockItemID": 50,
+    "StockGroupID": 3,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 149,
+    "StockItemID": 50,
+    "StockGroupID": 1,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 150,
+    "StockItemID": 51,
+    "StockGroupID": 6,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 151,
+    "StockItemID": 51,
+    "StockGroupID": 3,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 152,
+    "StockItemID": 51,
+    "StockGroupID": 1,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 153,
+    "StockItemID": 52,
+    "StockGroupID": 6,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 154,
+    "StockItemID": 52,
+    "StockGroupID": 3,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 155,
+    "StockItemID": 52,
+    "StockGroupID": 1,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 156,
+    "StockItemID": 53,
+    "StockGroupID": 6,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 157,
+    "StockItemID": 53,
+    "StockGroupID": 3,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 158,
+    "StockItemID": 53,
+    "StockGroupID": 1,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 159,
+    "StockItemID": 54,
+    "StockGroupID": 6,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 160,
+    "StockItemID": 54,
+    "StockGroupID": 3,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 161,
+    "StockItemID": 54,
+    "StockGroupID": 1,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 162,
+    "StockItemID": 55,
+    "StockGroupID": 6,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 163,
+    "StockItemID": 55,
+    "StockGroupID": 3,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 164,
+    "StockItemID": 55,
+    "StockGroupID": 1,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 165,
+    "StockItemID": 56,
+    "StockGroupID": 6,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 166,
+    "StockItemID": 56,
+    "StockGroupID": 3,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 167,
+    "StockItemID": 56,
+    "StockGroupID": 1,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 168,
+    "StockItemID": 57,
+    "StockGroupID": 6,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 169,
+    "StockItemID": 57,
+    "StockGroupID": 3,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 170,
+    "StockItemID": 57,
+    "StockGroupID": 1,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 171,
+    "StockItemID": 58,
+    "StockGroupID": 1,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 172,
+    "StockItemID": 58,
+    "StockGroupID": 9,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 173,
+    "StockItemID": 59,
+    "StockGroupID": 1,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 174,
+    "StockItemID": 59,
+    "StockGroupID": 9,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 175,
+    "StockItemID": 60,
+    "StockGroupID": 1,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 176,
+    "StockItemID": 60,
+    "StockGroupID": 9,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 177,
+    "StockItemID": 61,
+    "StockGroupID": 1,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 178,
+    "StockItemID": 61,
+    "StockGroupID": 9,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 179,
+    "StockItemID": 62,
+    "StockGroupID": 1,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 180,
+    "StockItemID": 62,
+    "StockGroupID": 9,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 181,
+    "StockItemID": 63,
+    "StockGroupID": 1,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 182,
+    "StockItemID": 63,
+    "StockGroupID": 9,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 183,
+    "StockItemID": 64,
+    "StockGroupID": 1,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 184,
+    "StockItemID": 64,
+    "StockGroupID": 9,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 185,
+    "StockItemID": 65,
+    "StockGroupID": 1,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 186,
+    "StockItemID": 65,
+    "StockGroupID": 9,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 187,
+    "StockItemID": 66,
+    "StockGroupID": 1,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 188,
+    "StockItemID": 66,
+    "StockGroupID": 9,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 189,
+    "StockItemID": 67,
+    "StockGroupID": 1,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 190,
+    "StockItemID": 67,
+    "StockGroupID": 9,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 191,
+    "StockItemID": 68,
+    "StockGroupID": 1,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 192,
+    "StockItemID": 68,
+    "StockGroupID": 9,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 193,
+    "StockItemID": 69,
+    "StockGroupID": 1,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 194,
+    "StockItemID": 69,
+    "StockGroupID": 9,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 195,
+    "StockItemID": 70,
+    "StockGroupID": 1,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 196,
+    "StockItemID": 70,
+    "StockGroupID": 9,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 197,
+    "StockItemID": 71,
+    "StockGroupID": 1,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 198,
+    "StockItemID": 71,
+    "StockGroupID": 9,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 199,
+    "StockItemID": 72,
+    "StockGroupID": 1,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 200,
+    "StockItemID": 72,
+    "StockGroupID": 9,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 201,
+    "StockItemID": 73,
+    "StockGroupID": 1,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 202,
+    "StockItemID": 73,
+    "StockGroupID": 9,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 203,
+    "StockItemID": 74,
+    "StockGroupID": 1,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 204,
+    "StockItemID": 74,
+    "StockGroupID": 9,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 205,
+    "StockItemID": 75,
+    "StockGroupID": 1,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 206,
+    "StockItemID": 75,
+    "StockGroupID": 9,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 207,
+    "StockItemID": 76,
+    "StockGroupID": 2,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 208,
+    "StockItemID": 76,
+    "StockGroupID": 6,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 209,
+    "StockItemID": 76,
+    "StockGroupID": 4,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 210,
+    "StockItemID": 77,
+    "StockGroupID": 2,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 211,
+    "StockItemID": 77,
+    "StockGroupID": 6,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 212,
+    "StockItemID": 77,
+    "StockGroupID": 4,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 213,
+    "StockItemID": 78,
+    "StockGroupID": 2,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 214,
+    "StockItemID": 78,
+    "StockGroupID": 6,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 215,
+    "StockItemID": 78,
+    "StockGroupID": 4,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 216,
+    "StockItemID": 79,
+    "StockGroupID": 2,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 217,
+    "StockItemID": 79,
+    "StockGroupID": 6,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 218,
+    "StockItemID": 79,
+    "StockGroupID": 4,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 219,
+    "StockItemID": 80,
+    "StockGroupID": 2,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 220,
+    "StockItemID": 80,
+    "StockGroupID": 6,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 221,
+    "StockItemID": 80,
+    "StockGroupID": 4,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 222,
+    "StockItemID": 81,
+    "StockGroupID": 2,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 223,
+    "StockItemID": 81,
+    "StockGroupID": 6,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 224,
+    "StockItemID": 81,
+    "StockGroupID": 4,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 225,
+    "StockItemID": 82,
+    "StockGroupID": 2,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 226,
+    "StockItemID": 82,
+    "StockGroupID": 6,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 227,
+    "StockItemID": 82,
+    "StockGroupID": 4,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 228,
+    "StockItemID": 83,
+    "StockGroupID": 2,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 229,
+    "StockItemID": 83,
+    "StockGroupID": 6,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 230,
+    "StockItemID": 83,
+    "StockGroupID": 4,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 231,
+    "StockItemID": 84,
+    "StockGroupID": 2,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 232,
+    "StockItemID": 84,
+    "StockGroupID": 6,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 233,
+    "StockItemID": 84,
+    "StockGroupID": 4,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 234,
+    "StockItemID": 85,
+    "StockGroupID": 2,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 235,
+    "StockItemID": 85,
+    "StockGroupID": 6,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 236,
+    "StockItemID": 85,
+    "StockGroupID": 4,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 237,
+    "StockItemID": 86,
+    "StockGroupID": 2,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 238,
+    "StockItemID": 86,
+    "StockGroupID": 6,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 239,
+    "StockItemID": 86,
+    "StockGroupID": 4,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 240,
+    "StockItemID": 87,
+    "StockGroupID": 2,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 241,
+    "StockItemID": 87,
+    "StockGroupID": 6,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 242,
+    "StockItemID": 87,
+    "StockGroupID": 4,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 243,
+    "StockItemID": 88,
+    "StockGroupID": 2,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 244,
+    "StockItemID": 88,
+    "StockGroupID": 6,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 245,
+    "StockItemID": 88,
+    "StockGroupID": 4,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 246,
+    "StockItemID": 89,
+    "StockGroupID": 2,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 247,
+    "StockItemID": 89,
+    "StockGroupID": 6,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 248,
+    "StockItemID": 89,
+    "StockGroupID": 4,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 249,
+    "StockItemID": 90,
+    "StockGroupID": 2,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 250,
+    "StockItemID": 90,
+    "StockGroupID": 6,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 251,
+    "StockItemID": 90,
+    "StockGroupID": 4,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 252,
+    "StockItemID": 91,
+    "StockGroupID": 2,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 253,
+    "StockItemID": 91,
+    "StockGroupID": 6,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 254,
+    "StockItemID": 91,
+    "StockGroupID": 4,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 255,
+    "StockItemID": 92,
+    "StockGroupID": 2,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 256,
+    "StockItemID": 92,
+    "StockGroupID": 6,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 257,
+    "StockItemID": 92,
+    "StockGroupID": 4,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 258,
+    "StockItemID": 93,
+    "StockGroupID": 2,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 259,
+    "StockItemID": 93,
+    "StockGroupID": 6,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 260,
+    "StockItemID": 93,
+    "StockGroupID": 4,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 261,
+    "StockItemID": 94,
+    "StockGroupID": 2,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 262,
+    "StockItemID": 94,
+    "StockGroupID": 6,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 263,
+    "StockItemID": 94,
+    "StockGroupID": 4,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 264,
+    "StockItemID": 95,
+    "StockGroupID": 2,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 265,
+    "StockItemID": 95,
+    "StockGroupID": 6,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 266,
+    "StockItemID": 95,
+    "StockGroupID": 4,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 267,
+    "StockItemID": 96,
+    "StockGroupID": 2,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 268,
+    "StockItemID": 96,
+    "StockGroupID": 6,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 269,
+    "StockItemID": 96,
+    "StockGroupID": 4,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 270,
+    "StockItemID": 97,
+    "StockGroupID": 2,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 271,
+    "StockItemID": 97,
+    "StockGroupID": 6,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 272,
+    "StockItemID": 97,
+    "StockGroupID": 4,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 273,
+    "StockItemID": 98,
+    "StockGroupID": 2,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 274,
+    "StockItemID": 98,
+    "StockGroupID": 6,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 275,
+    "StockItemID": 98,
+    "StockGroupID": 4,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 276,
+    "StockItemID": 99,
+    "StockGroupID": 2,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 277,
+    "StockItemID": 99,
+    "StockGroupID": 6,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 278,
+    "StockItemID": 99,
+    "StockGroupID": 4,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 279,
+    "StockItemID": 100,
+    "StockGroupID": 2,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 280,
+    "StockItemID": 100,
+    "StockGroupID": 6,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 281,
+    "StockItemID": 100,
+    "StockGroupID": 4,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 282,
+    "StockItemID": 101,
+    "StockGroupID": 2,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 283,
+    "StockItemID": 101,
+    "StockGroupID": 6,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 284,
+    "StockItemID": 101,
+    "StockGroupID": 4,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 285,
+    "StockItemID": 102,
+    "StockGroupID": 2,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 286,
+    "StockItemID": 103,
+    "StockGroupID": 2,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 287,
+    "StockItemID": 104,
+    "StockGroupID": 2,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 288,
+    "StockItemID": 105,
+    "StockGroupID": 2,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 289,
+    "StockItemID": 106,
+    "StockGroupID": 2,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 290,
+    "StockItemID": 107,
+    "StockGroupID": 2,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 291,
+    "StockItemID": 108,
+    "StockGroupID": 2,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 292,
+    "StockItemID": 109,
+    "StockGroupID": 2,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 293,
+    "StockItemID": 110,
+    "StockGroupID": 2,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 294,
+    "StockItemID": 111,
+    "StockGroupID": 2,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 295,
+    "StockItemID": 112,
+    "StockGroupID": 2,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 296,
+    "StockItemID": 113,
+    "StockGroupID": 2,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 297,
+    "StockItemID": 114,
+    "StockGroupID": 2,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 298,
+    "StockItemID": 115,
+    "StockGroupID": 2,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 299,
+    "StockItemID": 116,
+    "StockGroupID": 2,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 300,
+    "StockItemID": 117,
+    "StockGroupID": 2,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 301,
+    "StockItemID": 118,
+    "StockGroupID": 2,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 302,
+    "StockItemID": 118,
+    "StockGroupID": 8,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 303,
+    "StockItemID": 119,
+    "StockGroupID": 2,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 304,
+    "StockItemID": 119,
+    "StockGroupID": 8,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 305,
+    "StockItemID": 120,
+    "StockGroupID": 2,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 306,
+    "StockItemID": 120,
+    "StockGroupID": 8,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 307,
+    "StockItemID": 121,
+    "StockGroupID": 2,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 308,
+    "StockItemID": 121,
+    "StockGroupID": 8,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 309,
+    "StockItemID": 122,
+    "StockGroupID": 2,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 310,
+    "StockItemID": 122,
+    "StockGroupID": 8,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 311,
+    "StockItemID": 123,
+    "StockGroupID": 2,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 312,
+    "StockItemID": 123,
+    "StockGroupID": 8,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 313,
+    "StockItemID": 124,
+    "StockGroupID": 2,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 314,
+    "StockItemID": 124,
+    "StockGroupID": 8,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 315,
+    "StockItemID": 125,
+    "StockGroupID": 2,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 316,
+    "StockItemID": 125,
+    "StockGroupID": 8,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 317,
+    "StockItemID": 126,
+    "StockGroupID": 2,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 318,
+    "StockItemID": 126,
+    "StockGroupID": 8,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 319,
+    "StockItemID": 127,
+    "StockGroupID": 2,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 320,
+    "StockItemID": 127,
+    "StockGroupID": 8,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 321,
+    "StockItemID": 128,
+    "StockGroupID": 2,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 322,
+    "StockItemID": 128,
+    "StockGroupID": 8,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 323,
+    "StockItemID": 129,
+    "StockGroupID": 2,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 324,
+    "StockItemID": 129,
+    "StockGroupID": 8,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 325,
+    "StockItemID": 130,
+    "StockGroupID": 2,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 326,
+    "StockItemID": 130,
+    "StockGroupID": 8,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 327,
+    "StockItemID": 131,
+    "StockGroupID": 2,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 328,
+    "StockItemID": 131,
+    "StockGroupID": 8,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 329,
+    "StockItemID": 132,
+    "StockGroupID": 2,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 330,
+    "StockItemID": 132,
+    "StockGroupID": 8,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 331,
+    "StockItemID": 133,
+    "StockGroupID": 2,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 332,
+    "StockItemID": 133,
+    "StockGroupID": 8,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 333,
+    "StockItemID": 134,
+    "StockGroupID": 2,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 334,
+    "StockItemID": 134,
+    "StockGroupID": 8,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 335,
+    "StockItemID": 135,
+    "StockGroupID": 2,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 336,
+    "StockItemID": 135,
+    "StockGroupID": 8,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 337,
+    "StockItemID": 136,
+    "StockGroupID": 2,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 338,
+    "StockItemID": 136,
+    "StockGroupID": 8,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 339,
+    "StockItemID": 137,
+    "StockGroupID": 2,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 340,
+    "StockItemID": 137,
+    "StockGroupID": 8,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 341,
+    "StockItemID": 138,
+    "StockGroupID": 2,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 342,
+    "StockItemID": 138,
+    "StockGroupID": 8,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 343,
+    "StockItemID": 139,
+    "StockGroupID": 2,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 344,
+    "StockItemID": 139,
+    "StockGroupID": 8,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 345,
+    "StockItemID": 140,
+    "StockGroupID": 2,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 346,
+    "StockItemID": 140,
+    "StockGroupID": 8,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 347,
+    "StockItemID": 141,
+    "StockGroupID": 2,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 348,
+    "StockItemID": 141,
+    "StockGroupID": 8,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 349,
+    "StockItemID": 142,
+    "StockGroupID": 2,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 350,
+    "StockItemID": 142,
+    "StockGroupID": 1,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 351,
+    "StockItemID": 143,
+    "StockGroupID": 2,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 352,
+    "StockItemID": 143,
+    "StockGroupID": 1,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 353,
+    "StockItemID": 144,
+    "StockGroupID": 2,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 354,
+    "StockItemID": 144,
+    "StockGroupID": 1,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 355,
+    "StockItemID": 145,
+    "StockGroupID": 2,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 356,
+    "StockItemID": 145,
+    "StockGroupID": 1,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 357,
+    "StockItemID": 146,
+    "StockGroupID": 2,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 358,
+    "StockItemID": 146,
+    "StockGroupID": 1,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 359,
+    "StockItemID": 147,
+    "StockGroupID": 2,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 360,
+    "StockItemID": 147,
+    "StockGroupID": 1,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 361,
+    "StockItemID": 148,
+    "StockGroupID": 2,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 362,
+    "StockItemID": 148,
+    "StockGroupID": 1,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 363,
+    "StockItemID": 149,
+    "StockGroupID": 2,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 364,
+    "StockItemID": 149,
+    "StockGroupID": 1,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 365,
+    "StockItemID": 150,
+    "StockGroupID": 9,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 366,
+    "StockItemID": 151,
+    "StockGroupID": 9,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 367,
+    "StockItemID": 152,
+    "StockGroupID": 9,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 368,
+    "StockItemID": 153,
+    "StockGroupID": 10,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 369,
+    "StockItemID": 154,
+    "StockGroupID": 10,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 370,
+    "StockItemID": 155,
+    "StockGroupID": 10,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 371,
+    "StockItemID": 156,
+    "StockGroupID": 10,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 372,
+    "StockItemID": 157,
+    "StockGroupID": 10,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 373,
+    "StockItemID": 158,
+    "StockGroupID": 10,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 374,
+    "StockItemID": 159,
+    "StockGroupID": 10,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 375,
+    "StockItemID": 160,
+    "StockGroupID": 10,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 376,
+    "StockItemID": 161,
+    "StockGroupID": 10,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 377,
+    "StockItemID": 162,
+    "StockGroupID": 10,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 378,
+    "StockItemID": 163,
+    "StockGroupID": 10,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 379,
+    "StockItemID": 164,
+    "StockGroupID": 10,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 380,
+    "StockItemID": 165,
+    "StockGroupID": 10,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 381,
+    "StockItemID": 166,
+    "StockGroupID": 10,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 382,
+    "StockItemID": 167,
+    "StockGroupID": 10,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 383,
+    "StockItemID": 168,
+    "StockGroupID": 10,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 384,
+    "StockItemID": 169,
+    "StockGroupID": 10,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 385,
+    "StockItemID": 170,
+    "StockGroupID": 10,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 386,
+    "StockItemID": 171,
+    "StockGroupID": 10,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 387,
+    "StockItemID": 172,
+    "StockGroupID": 10,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 388,
+    "StockItemID": 173,
+    "StockGroupID": 10,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 389,
+    "StockItemID": 174,
+    "StockGroupID": 10,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 390,
+    "StockItemID": 175,
+    "StockGroupID": 10,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 391,
+    "StockItemID": 176,
+    "StockGroupID": 10,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 392,
+    "StockItemID": 177,
+    "StockGroupID": 10,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 393,
+    "StockItemID": 178,
+    "StockGroupID": 10,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 394,
+    "StockItemID": 179,
+    "StockGroupID": 10,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 395,
+    "StockItemID": 180,
+    "StockGroupID": 10,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 396,
+    "StockItemID": 181,
+    "StockGroupID": 10,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 397,
+    "StockItemID": 182,
+    "StockGroupID": 10,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 398,
+    "StockItemID": 183,
+    "StockGroupID": 10,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 399,
+    "StockItemID": 184,
+    "StockGroupID": 10,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 400,
+    "StockItemID": 185,
+    "StockGroupID": 10,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 401,
+    "StockItemID": 186,
+    "StockGroupID": 10,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 402,
+    "StockItemID": 187,
+    "StockGroupID": 10,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 403,
+    "StockItemID": 188,
+    "StockGroupID": 10,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 404,
+    "StockItemID": 189,
+    "StockGroupID": 10,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 405,
+    "StockItemID": 190,
+    "StockGroupID": 10,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 406,
+    "StockItemID": 191,
+    "StockGroupID": 10,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 407,
+    "StockItemID": 192,
+    "StockGroupID": 10,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 408,
+    "StockItemID": 193,
+    "StockGroupID": 10,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 409,
+    "StockItemID": 194,
+    "StockGroupID": 10,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 410,
+    "StockItemID": 195,
+    "StockGroupID": 10,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 411,
+    "StockItemID": 196,
+    "StockGroupID": 10,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 412,
+    "StockItemID": 197,
+    "StockGroupID": 10,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 413,
+    "StockItemID": 198,
+    "StockGroupID": 10,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 414,
+    "StockItemID": 199,
+    "StockGroupID": 10,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 415,
+    "StockItemID": 200,
+    "StockGroupID": 10,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 416,
+    "StockItemID": 201,
+    "StockGroupID": 10,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 417,
+    "StockItemID": 202,
+    "StockGroupID": 10,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 418,
+    "StockItemID": 203,
+    "StockGroupID": 10,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 419,
+    "StockItemID": 204,
+    "StockGroupID": 10,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 420,
+    "StockItemID": 205,
+    "StockGroupID": 10,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 421,
+    "StockItemID": 206,
+    "StockGroupID": 10,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 422,
+    "StockItemID": 207,
+    "StockGroupID": 10,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 423,
+    "StockItemID": 208,
+    "StockGroupID": 10,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 424,
+    "StockItemID": 209,
+    "StockGroupID": 10,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 425,
+    "StockItemID": 210,
+    "StockGroupID": 10,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 426,
+    "StockItemID": 211,
+    "StockGroupID": 10,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 427,
+    "StockItemID": 212,
+    "StockGroupID": 10,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 428,
+    "StockItemID": 213,
+    "StockGroupID": 10,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 429,
+    "StockItemID": 214,
+    "StockGroupID": 10,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 430,
+    "StockItemID": 215,
+    "StockGroupID": 10,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 431,
+    "StockItemID": 216,
+    "StockGroupID": 10,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 432,
+    "StockItemID": 217,
+    "StockGroupID": 10,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 433,
+    "StockItemID": 218,
+    "StockGroupID": 10,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 434,
+    "StockItemID": 219,
+    "StockGroupID": 10,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2013-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 435,
+    "StockItemID": 220,
+    "StockGroupID": 1,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2016-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 436,
+    "StockItemID": 221,
+    "StockGroupID": 1,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2016-01-01T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 437,
+    "StockItemID": 222,
+    "StockGroupID": 1,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2016-01-02T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 438,
+    "StockItemID": 223,
+    "StockGroupID": 1,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2016-01-02T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 439,
+    "StockItemID": 224,
+    "StockGroupID": 1,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2016-01-04T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 440,
+    "StockItemID": 225,
+    "StockGroupID": 1,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2016-01-04T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 441,
+    "StockItemID": 226,
+    "StockGroupID": 1,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2016-01-05T00:00:00"
+  },
+  {
+    "StockItemStockGroupID": 442,
+    "StockItemID": 227,
+    "StockGroupID": 1,
+    "LastEditedBy": 1,
+    "LastEditedWhen": "2016-01-05T00:00:00"
+  }
+]

@@ -1,0 +1,254 @@
+[
+  {
+    "ColorID": 1,
+    "ColorName": "Azure",
+    "LastEditedBy": 1,
+    "ValidFrom": "2013-01-01T00:00:00",
+    "ValidTo": "9999-12-31T23:59:59.9999999"
+  },
+  {
+    "ColorID": 2,
+    "ColorName": "Beige",
+    "LastEditedBy": 1,
+    "ValidFrom": "2013-01-01T00:00:00",
+    "ValidTo": "9999-12-31T23:59:59.9999999"
+  },
+  {
+    "ColorID": 3,
+    "ColorName": "Black",
+    "LastEditedBy": 1,
+    "ValidFrom": "2013-01-01T00:00:00",
+    "ValidTo": "9999-12-31T23:59:59.9999999"
+  },
+  {
+    "ColorID": 4,
+    "ColorName": "Blue",
+    "LastEditedBy": 1,
+    "ValidFrom": "2013-01-01T00:00:00",
+    "ValidTo": "9999-12-31T23:59:59.9999999"
+  },
+  {
+    "ColorID": 5,
+    "ColorName": "Charcoal",
+    "LastEditedBy": 1,
+    "ValidFrom": "2013-01-01T00:00:00",
+    "ValidTo": "9999-12-31T23:59:59.9999999"
+  },
+  {
+    "ColorID": 6,
+    "ColorName": "Chartreuse",
+    "LastEditedBy": 1,
+    "ValidFrom": "2013-01-01T00:00:00",
+    "ValidTo": "9999-12-31T23:59:59.9999999"
+  },
+  {
+    "ColorID": 7,
+    "ColorName": "Cyan",
+    "LastEditedBy": 1,
+    "ValidFrom": "2013-01-01T00:00:00",
+    "ValidTo": "9999-12-31T23:59:59.9999999"
+  },
+  {
+    "ColorID": 8,
+    "ColorName": "Dark Brown",
+    "LastEditedBy": 1,
+    "ValidFrom": "2013-01-01T00:00:00",
+    "ValidTo": "9999-12-31T23:59:59.9999999"
+  },
+  {
+    "ColorID": 9,
+    "ColorName": "Dark Green",
+    "LastEditedBy": 1,
+    "ValidFrom": "2013-01-01T00:00:00",
+    "ValidTo": "9999-12-31T23:59:59.9999999"
+  },
+  {
+    "ColorID": 10,
+    "ColorName": "Fuchsia",
+    "LastEditedBy": 1,
+    "ValidFrom": "2013-01-01T00:00:00",
+    "ValidTo": "9999-12-31T23:59:59.9999999"
+  },
+  {
+    "ColorID": 11,
+    "ColorName": "Gold",
+    "LastEditedBy": 1,
+    "ValidFrom": "2013-01-01T00:00:00",
+    "ValidTo": "9999-12-31T23:59:59.9999999"
+  },
+  {
+    "ColorID": 12,
+    "ColorName": "Steel Gray",
+    "LastEditedBy": 9,
+    "ValidFrom": "2016-01-01T16:00:00",
+    "ValidTo": "9999-12-31T23:59:59.9999999"
+  },
+  {
+    "ColorID": 13,
+    "ColorName": "Hot Pink",
+    "LastEditedBy": 1,
+    "ValidFrom": "2013-01-01T00:00:00",
+    "ValidTo": "9999-12-31T23:59:59.9999999"
+  },
+  {
+    "ColorID": 14,
+    "ColorName": "Indigo",
+    "LastEditedBy": 1,
+    "ValidFrom": "2013-01-01T00:00:00",
+    "ValidTo": "9999-12-31T23:59:59.9999999"
+  },
+  {
+    "ColorID": 15,
+    "ColorName": "Ivory",
+    "LastEditedBy": 1,
+    "ValidFrom": "2013-01-01T00:00:00",
+    "ValidTo": "9999-12-31T23:59:59.9999999"
+  },
+  {
+    "ColorID": 16,
+    "ColorName": "Khaki",
+    "LastEditedBy": 1,
+    "ValidFrom": "2013-01-01T00:00:00",
+    "ValidTo": "9999-12-31T23:59:59.9999999"
+  },
+  {
+    "ColorID": 17,
+    "ColorName": "Lavender",
+    "LastEditedBy": 1,
+    "ValidFrom": "2013-01-01T00:00:00",
+    "ValidTo": "9999-12-31T23:59:59.9999999"
+  },
+  {
+    "ColorID": 18,
+    "ColorName": "Light Brown",
+    "LastEditedBy": 1,
+    "ValidFrom": "2013-01-01T00:00:00",
+    "ValidTo": "9999-12-31T23:59:59.9999999"
+  },
+  {
+    "ColorID": 19,
+    "ColorName": "Light Green",
+    "LastEditedBy": 1,
+    "ValidFrom": "2013-01-01T00:00:00",
+    "ValidTo": "9999-12-31T23:59:59.9999999"
+  },
+  {
+    "ColorID": 20,
+    "ColorName": "Maroon",
+    "LastEditedBy": 1,
+    "ValidFrom": "2013-01-01T00:00:00",
+    "ValidTo": "9999-12-31T23:59:59.9999999"
+  },
+  {
+    "ColorID": 21,
+    "ColorName": "Mauve",
+    "LastEditedBy": 1,
+    "ValidFrom": "2013-01-01T00:00:00",
+    "ValidTo": "9999-12-31T23:59:59.9999999"
+  },
+  {
+    "ColorID": 22,
+    "ColorName": "Navy Blue",
+    "LastEditedBy": 1,
+    "ValidFrom": "2013-01-01T00:00:00",
+    "ValidTo": "9999-12-31T23:59:59.9999999"
+  },
+  {
+    "ColorID": 23,
+    "ColorName": "Olive",
+    "LastEditedBy": 1,
+    "ValidFrom": "2013-01-01T00:00:00",
+    "ValidTo": "9999-12-31T23:59:59.9999999"
+  },
+  {
+    "ColorID": 24,
+    "ColorName": "Orange",
+    "LastEditedBy": 1,
+    "ValidFrom": "2013-01-01T00:00:00",
+    "ValidTo": "9999-12-31T23:59:59.9999999"
+  },
+  {
+    "ColorID": 25,
+    "ColorName": "Plum",
+    "LastEditedBy": 1,
+    "ValidFrom": "2013-01-01T00:00:00",
+    "ValidTo": "9999-12-31T23:59:59.9999999"
+  },
+  {
+    "ColorID": 26,
+    "ColorName": "Puce",
+    "LastEditedBy": 1,
+    "ValidFrom": "2013-01-01T00:00:00",
+    "ValidTo": "9999-12-31T23:59:59.9999999"
+  },
+  {
+    "ColorID": 27,
+    "ColorName": "Purple",
+    "LastEditedBy": 1,
+    "ValidFrom": "2013-01-01T00:00:00",
+    "ValidTo": "9999-12-31T23:59:59.9999999"
+  },
+  {
+    "ColorID": 28,
+    "ColorName": "Red",
+    "LastEditedBy": 1,
+    "ValidFrom": "2013-01-01T00:00:00",
+    "ValidTo": "9999-12-31T23:59:59.9999999"
+  },
+  {
+    "ColorID": 29,
+    "ColorName": "Royal Blue",
+    "LastEditedBy": 1,
+    "ValidFrom": "2013-01-01T00:00:00",
+    "ValidTo": "9999-12-31T23:59:59.9999999"
+  },
+  {
+    "ColorID": 30,
+    "ColorName": "Salmon",
+    "LastEditedBy": 1,
+    "ValidFrom": "2013-01-01T00:00:00",
+    "ValidTo": "9999-12-31T23:59:59.9999999"
+  },
+  {
+    "ColorID": 31,
+    "ColorName": "Silver",
+    "LastEditedBy": 1,
+    "ValidFrom": "2013-01-01T00:00:00",
+    "ValidTo": "9999-12-31T23:59:59.9999999"
+  },
+  {
+    "ColorID": 32,
+    "ColorName": "Tan",
+    "LastEditedBy": 1,
+    "ValidFrom": "2013-01-01T00:00:00",
+    "ValidTo": "9999-12-31T23:59:59.9999999"
+  },
+  {
+    "ColorID": 33,
+    "ColorName": "Teal",
+    "LastEditedBy": 1,
+    "ValidFrom": "2013-01-01T00:00:00",
+    "ValidTo": "9999-12-31T23:59:59.9999999"
+  },
+  {
+    "ColorID": 34,
+    "ColorName": "Wheat",
+    "LastEditedBy": 1,
+    "ValidFrom": "2013-01-01T00:00:00",
+    "ValidTo": "9999-12-31T23:59:59.9999999"
+  },
+  {
+    "ColorID": 35,
+    "ColorName": "White",
+    "LastEditedBy": 1,
+    "ValidFrom": "2013-01-01T00:00:00",
+    "ValidTo": "9999-12-31T23:59:59.9999999"
+  },
+  {
+    "ColorID": 36,
+    "ColorName": "Yellow",
+    "LastEditedBy": 1,
+    "ValidFrom": "2013-01-01T00:00:00",
+    "ValidTo": "9999-12-31T23:59:59.9999999"
+  }
+]

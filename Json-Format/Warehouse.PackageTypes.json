@@ -1,0 +1,100 @@
+[
+  {
+    "PackageTypeID": 1,
+    "PackageTypeName": "Bag",
+    "LastEditedBy": 1,
+    "ValidFrom": "2013-01-01T00:00:00",
+    "ValidTo": "9999-12-31T23:59:59.9999999"
+  },
+  {
+    "PackageTypeID": 2,
+    "PackageTypeName": "Block",
+    "LastEditedBy": 1,
+    "ValidFrom": "2013-01-01T00:00:00",
+    "ValidTo": "9999-12-31T23:59:59.9999999"
+  },
+  {
+    "PackageTypeID": 3,
+    "PackageTypeName": "Bottle",
+    "LastEditedBy": 1,
+    "ValidFrom": "2013-01-01T00:00:00",
+    "ValidTo": "9999-12-31T23:59:59.9999999"
+  },
+  {
+    "PackageTypeID": 4,
+    "PackageTypeName": "Box",
+    "LastEditedBy": 1,
+    "ValidFrom": "2013-01-01T00:00:00",
+    "ValidTo": "9999-12-31T23:59:59.9999999"
+  },
+  {
+    "PackageTypeID": 5,
+    "PackageTypeName": "Can",
+    "LastEditedBy": 1,
+    "ValidFrom": "2013-01-01T00:00:00",
+    "ValidTo": "9999-12-31T23:59:59.9999999"
+  },
+  {
+    "PackageTypeID": 6,
+    "PackageTypeName": "Carton",
+    "LastEditedBy": 1,
+    "ValidFrom": "2013-01-01T00:00:00",
+    "ValidTo": "9999-12-31T23:59:59.9999999"
+  },
+  {
+    "PackageTypeID": 7,
+    "PackageTypeName": "Each",
+    "LastEditedBy": 1,
+    "ValidFrom": "2013-01-01T00:00:00",
+    "ValidTo": "9999-12-31T23:59:59.9999999"
+  },
+  {
+    "PackageTypeID": 8,
+    "PackageTypeName": "Kg",
+    "LastEditedBy": 1,
+    "ValidFrom": "2013-01-01T00:00:00",
+    "ValidTo": "9999-12-31T23:59:59.9999999"
+  },
+  {
+    "PackageTypeID": 9,
+    "PackageTypeName": "Packet",
+    "LastEditedBy": 1,
+    "ValidFrom": "2013-01-01T00:00:00",
+    "ValidTo": "9999-12-31T23:59:59.9999999"
+  },
+  {
+    "PackageTypeID": 10,
+    "PackageTypeName": "Pair",
+    "LastEditedBy": 1,
+    "ValidFrom": "2013-01-01T00:00:00",
+    "ValidTo": "9999-12-31T23:59:59.9999999"
+  },
+  {
+    "PackageTypeID": 11,
+    "PackageTypeName": "Pallet",
+    "LastEditedBy": 1,
+    "ValidFrom": "2013-01-01T00:00:00",
+    "ValidTo": "9999-12-31T23:59:59.9999999"
+  },
+  {
+    "PackageTypeID": 12,
+    "PackageTypeName": "Tray",
+    "LastEditedBy": 1,
+    "ValidFrom": "2013-01-01T00:00:00",
+    "ValidTo": "9999-12-31T23:59:59.9999999"
+  },
+  {
+    "PackageTypeID": 13,
+    "PackageTypeName": "Tub ",
+    "LastEditedBy": 1,
+    "ValidFrom": "2013-01-01T00:00:00",
+    "ValidTo": "9999-12-31T23:59:59.9999999"
+  },
+  {
+    "PackageTypeID": 14,
+    "PackageTypeName": "Tube",
+    "LastEditedBy": 1,
+    "ValidFrom": "2013-01-01T00:00:00",
+    "ValidTo": "9999-12-31T23:59:59.9999999"
+  }
+]

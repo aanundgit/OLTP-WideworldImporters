@@ -1,0 +1,72 @@
+[
+  {
+    "StockGroupID": 1,
+    "StockGroupName": "Novelty Items",
+    "LastEditedBy": 1,
+    "ValidFrom": "2013-01-01T00:00:00",
+    "ValidTo": "9999-12-31T23:59:59.9999999"
+  },
+  {
+    "StockGroupID": 2,
+    "StockGroupName": "Clothing",
+    "LastEditedBy": 1,
+    "ValidFrom": "2013-01-01T00:00:00",
+    "ValidTo": "9999-12-31T23:59:59.9999999"
+  },
+  {
+    "StockGroupID": 3,
+    "StockGroupName": "Mugs",
+    "LastEditedBy": 1,
+    "ValidFrom": "2013-01-01T00:00:00",
+    "ValidTo": "9999-12-31T23:59:59.9999999"
+  },
+  {
+    "StockGroupID": 4,
+    "StockGroupName": "T-Shirts",
+    "LastEditedBy": 1,
+    "ValidFrom": "2013-01-01T00:00:00",
+    "ValidTo": "9999-12-31T23:59:59.9999999"
+  },
+  {
+    "StockGroupID": 5,
+    "StockGroupName": "Airline Novelties",
+    "LastEditedBy": 1,
+    "ValidFrom": "2013-01-01T00:00:00",
+    "ValidTo": "9999-12-31T23:59:59.9999999"
+  },
+  {
+    "StockGroupID": 6,
+    "StockGroupName": "Computing Novelties",
+    "LastEditedBy": 1,
+    "ValidFrom": "2013-01-01T00:00:00",
+    "ValidTo": "9999-12-31T23:59:59.9999999"
+  },
+  {
+    "StockGroupID": 7,
+    "StockGroupName": "USB Novelties",
+    "LastEditedBy": 1,
+    "ValidFrom": "2013-01-01T00:00:00",
+    "ValidTo": "9999-12-31T23:59:59.9999999"
+  },
+  {
+    "StockGroupID": 8,
+    "StockGroupName": "Furry Footwear",
+    "LastEditedBy": 9,
+    "ValidFrom": "2016-01-01T16:00:00",
+    "ValidTo": "9999-12-31T23:59:59.9999999"
+  },
+  {
+    "StockGroupID": 9,
+    "StockGroupName": "Toys",
+    "LastEditedBy": 1,
+    "ValidFrom": "2013-01-01T00:00:00",
+    "ValidTo": "9999-12-31T23:59:59.9999999"
+  },
+  {
+    "StockGroupID": 10,
+    "StockGroupName": "Packaging Materials",
+    "LastEditedBy": 1,
+    "ValidFrom": "2013-01-01T00:00:00",
+    "ValidTo": "9999-12-31T23:59:59.9999999"
+  }
+]

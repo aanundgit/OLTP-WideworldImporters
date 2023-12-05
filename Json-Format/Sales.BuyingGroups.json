@@ -1,0 +1,16 @@
+[
+  {
+    "BuyingGroupID": 1,
+    "BuyingGroupName": "Tailspin Toys",
+    "LastEditedBy": 1,
+    "ValidFrom": "2013-01-01T00:00:00",
+    "ValidTo": "9999-12-31T23:59:59.9999999"
+  },
+  {
+    "BuyingGroupID": 2,
+    "BuyingGroupName": "Wingtip Toys",
+    "LastEditedBy": 1,
+    "ValidFrom": "2013-01-01T00:00:00",
+    "ValidTo": "9999-12-31T23:59:59.9999999"
+  }
+]

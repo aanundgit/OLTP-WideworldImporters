@@ -1,0 +1,65 @@
+[
+  {
+    "SupplierCategoryID": 1,
+    "SupplierCategoryName": "Other Wholesaler",
+    "LastEditedBy": 1,
+    "ValidFrom": "2013-01-01T00:00:00",
+    "ValidTo": "9999-12-31T23:59:59.9999999"
+  },
+  {
+    "SupplierCategoryID": 2,
+    "SupplierCategoryName": "Novelty Goods Supplier",
+    "LastEditedBy": 1,
+    "ValidFrom": "2013-01-01T00:00:00",
+    "ValidTo": "9999-12-31T23:59:59.9999999"
+  },
+  {
+    "SupplierCategoryID": 3,
+    "SupplierCategoryName": "Toy Supplier",
+    "LastEditedBy": 1,
+    "ValidFrom": "2013-01-01T00:00:00",
+    "ValidTo": "9999-12-31T23:59:59.9999999"
+  },
+  {
+    "SupplierCategoryID": 4,
+    "SupplierCategoryName": "Clothing Supplier",
+    "LastEditedBy": 1,
+    "ValidFrom": "2013-01-01T00:00:00",
+    "ValidTo": "9999-12-31T23:59:59.9999999"
+  },
+  {
+    "SupplierCategoryID": 5,
+    "SupplierCategoryName": "Packaging Supplier",
+    "LastEditedBy": 1,
+    "ValidFrom": "2013-01-01T00:00:00",
+    "ValidTo": "9999-12-31T23:59:59.9999999"
+  },
+  {
+    "SupplierCategoryID": 6,
+    "SupplierCategoryName": "Courier Services Supplier",
+    "LastEditedBy": 16,
+    "ValidFrom": "2015-01-01T16:00:00",
+    "ValidTo": "9999-12-31T23:59:59.9999999"
+  },
+  {
+    "SupplierCategoryID": 7,
+    "SupplierCategoryName": "Financial Services Supplier",
+    "LastEditedBy": 1,
+    "ValidFrom": "2013-01-01T00:00:00",
+    "ValidTo": "9999-12-31T23:59:59.9999999"
+  },
+  {
+    "SupplierCategoryID": 8,
+    "SupplierCategoryName": "Marketing Services Supplier",
+    "LastEditedBy": 1,
+    "ValidFrom": "2013-01-01T00:00:00",
+    "ValidTo": "9999-12-31T23:59:59.9999999"
+  },
+  {
+    "SupplierCategoryID": 9,
+    "SupplierCategoryName": "Insurance Services Supplier",
+    "LastEditedBy": 1,
+    "ValidFrom": "2013-01-01T00:00:00",
+    "ValidTo": "9999-12-31T23:59:59.9999999"
+  }
+]

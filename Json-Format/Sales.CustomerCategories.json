@@ -1,0 +1,58 @@
+[
+  {
+    "CustomerCategoryID": 1,
+    "CustomerCategoryName": "Agent",
+    "LastEditedBy": 1,
+    "ValidFrom": "2013-01-01T00:00:00",
+    "ValidTo": "9999-12-31T23:59:59.9999999"
+  },
+  {
+    "CustomerCategoryID": 2,
+    "CustomerCategoryName": "Wholesaler",
+    "LastEditedBy": 1,
+    "ValidFrom": "2013-01-01T00:00:00",
+    "ValidTo": "9999-12-31T23:59:59.9999999"
+  },
+  {
+    "CustomerCategoryID": 3,
+    "CustomerCategoryName": "Novelty Shop",
+    "LastEditedBy": 1,
+    "ValidFrom": "2013-01-01T00:00:00",
+    "ValidTo": "9999-12-31T23:59:59.9999999"
+  },
+  {
+    "CustomerCategoryID": 4,
+    "CustomerCategoryName": "Supermarket",
+    "LastEditedBy": 1,
+    "ValidFrom": "2013-01-01T00:00:00",
+    "ValidTo": "9999-12-31T23:59:59.9999999"
+  },
+  {
+    "CustomerCategoryID": 5,
+    "CustomerCategoryName": "Computer Store",
+    "LastEditedBy": 1,
+    "ValidFrom": "2013-01-01T00:00:00",
+    "ValidTo": "9999-12-31T23:59:59.9999999"
+  },
+  {
+    "CustomerCategoryID": 6,
+    "CustomerCategoryName": "Gift Store",
+    "LastEditedBy": 1,
+    "ValidFrom": "2013-01-01T00:00:00",
+    "ValidTo": "9999-12-31T23:59:59.9999999"
+  },
+  {
+    "CustomerCategoryID": 7,
+    "CustomerCategoryName": "Corporate",
+    "LastEditedBy": 1,
+    "ValidFrom": "2013-01-01T00:00:00",
+    "ValidTo": "9999-12-31T23:59:59.9999999"
+  },
+  {
+    "CustomerCategoryID": 8,
+    "CustomerCategoryName": "General Retailer",
+    "LastEditedBy": 9,
+    "ValidFrom": "2014-01-01T16:15:00",
+    "ValidTo": "9999-12-31T23:59:59.9999999"
+  }
+]
